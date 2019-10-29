@@ -1,6 +1,6 @@
 <?php
 
-require 'pangu/pangu.php';
+require './pangu/pangu.php';
 
 if (isset($_POST['input'])) {
     $result = [
