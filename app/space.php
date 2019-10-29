@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/pangu/pangu.php';
+require __DIR__ . '/pangu.php';
 
 if (isset($_POST['input'])) {
     $result = [
